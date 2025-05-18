@@ -1,2 +1,11 @@
-# resolucao_desafio_lads
-Este repositório contém a resolução dos exercícios propostos pela LADS
+# Introdução à Análise de Dados com Pandas
+## Processo Seletivo LADS - Etapa 2
+### Instruções:
+Este notebook é um guia introdutório à análise de dados com Pandas
+Cada seção contém exemplos explicativos e exercícios práticos
+Complete todos os exercícios nas células marcadas com "SEU CÓDIGO AQUI"
+O que será avaliado:
+Compreensão dos conceitos apresentados
+Capacidade de aplicar os conceitos em problemas práticos
+Organização e clareza do código
+Análise e interpretação dos resultados
